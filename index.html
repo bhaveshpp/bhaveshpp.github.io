@@ -55,11 +55,55 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-twothird">
     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-hash fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Individual</h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-link fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Usefull links</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>I love open source technologies and I would like to work individually.</b></h5>
-          <p>Working on free extension.</p>
+          <div class="w3-border">
+          <div class="w3-bar w3-theme">
+            <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'London')">CODE</button>
+            <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Paris')">CMD</button>
+            <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Tokyo')">MAGENTO</button>
+          </div>
+
+          <div id="London" class="w3-container city w3-animate-opacity">
+            <h2>CODE</h2>
+            <p>London is the capital city of England.</p>
+            <p>It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+          </div>
+
+          <div id="Paris" class="w3-container city w3-animate-opacity">
+            <h2>CMD</h2>
+            <p>Paris is the capital of France.</p> 
+            <p>The Paris area is one of the largest population centers in Europe, with more than 12 million inhabitants.</p>
+          </div>
+
+          <div id="Tokyo" class="w3-container city w3-animate-opacity">
+            <h2>MAGENTO</h2>
+            <div class="w3-responsive w3-card-4">
+              <table class="w3-table w3-striped w3-bordered">
+              <thead>
+              <tr class="w3-theme">
+                <th>Title</th>
+                <th>link</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td>Root Scripts</td>
+                <td><a href="https://bhaveshpp.github.io/code/M2/root-scripts/">here</a></td>
+              </tr>
+                
+              <tr>
+                <td>Product Custom options</td>
+                <td><a href="https://bhaveshpp.github.io/code/M2/product-custom-option/">here</a></td>
+              </tr>
+              </tbody>
+              </table>
+              </div>      
+          </div>
+          </div>
+
           <hr>
+
         </div>
       </div>
 
