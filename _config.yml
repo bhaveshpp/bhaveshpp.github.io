@@ -1,0 +1,84 @@
+# Site settings
+title: Bhavesh Prajapati 
+description: Bhavesh Prajapati
+favicon: /assets/img/avatar.JPG
+baseurl: https://bhaveshpp.github.io
+url: https://bhaveshpp.github.io
+rss_url: /pages/atom.xml
+google_analytics: UA-63653234-1
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Dong Liang
+  title: Professional Magento Developer
+  address: Surat, Gujarat, India
+  email: bhaveshpp11@mail.com
+  link: https://bhaveshpp.github.io
+  weibo:
+  github: bhaveshpp
+  linkedin: bhavesh-prajapati-576a97171
+  twitter: bhaveshpp111
+  gavatar: /assets/img/avatar.JPG
+  stackoverflow:
+#  stackoverflow: 70292
+  workHistory:
+    - work1:
+      company: Tecksky
+      location: Surat, Gujarat
+      title: Magento Developer
+      started: Sep 2020
+      duration: (2020 - Present)
+      description: Magento Developer
+    
+  educationHistory:
+    - education1:
+      organization: S.G.V.U.
+      location: Jaypur, Rajasthan
+      degree: Master of computer application
+      major: Software Engineering
+      started: 2018
+      duration: (2018 - 2021)
+      description: Suresh gyanvihar university
+      collegeLogo: /assets/img/sgvu.png
+      universityLogo: 
+    - education2:
+      organization: Sutex bank collage of computer application and science
+      location: Shenyang, China
+      degree: Bechlor of computer application
+      major: Software Engineering
+      started: 2015
+      duration: (2015 - 2018)
+      description: Veer narmad south gujarat university
+      collegeLogo: /assets/img/sutex.png
+      universityLogo: /assets/img/vnsgu.jpg
+  languages:
+    - language1:
+      name: Gujarati & Hindi
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: Professional
+    - language3:
+      name: French (learner)
+      proficiency: Limited
+  programmingSkills:
+    - skill1:
+      name: Magento 2/1
+      percentage: 90%
+    - skill2:
+      name: Opencart 3/2
+      percentage: 80%
+    - skill3:
+      name: JavaScript
+      percentage: 70%
+    - skill4:
+      name: Codeigniter
+      percentage: 80%
+    - skill5:
+      name: Core PHP
+      percentage: 70%
