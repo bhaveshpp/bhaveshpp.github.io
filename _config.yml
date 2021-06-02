@@ -14,7 +14,7 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Bhavesh Prajapati
   title: Professional Magento Developer
   address: Surat, Gujarat, India
   email: bhaveshpp11@mail.com
@@ -27,14 +27,28 @@ author:
   stackoverflow:
 #  stackoverflow: 70292
   workHistory:
-    - work1:
+    - work3:
       company: Tecksky
       location: Surat, Gujarat
       title: Magento Developer
       started: Sep 2020
       duration: (2020 - Present)
       description: Magento Developer
-    
+    - work2:
+      company: Aureate Labs Pvt. Ltd.
+      location: Surat, Gujarat
+      title: Magento Developer
+      started: june 2020
+      duration: (2020 - 2020)
+      description: Work as Magento Developer
+    - work1:
+      company: Cirkle Studio
+      location: Surat, Gujarat
+      title: Jr. Magento Developer
+      started: June 2018
+      duration: (2018 - 2020)
+      description: Start training and work as Jr. Magento Developer
+
   educationHistory:
     - education1:
       organization: S.G.V.U.
