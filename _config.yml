@@ -33,7 +33,7 @@ author:
       location: Remote / Worldwide
       title: Magento Developer
       started: Dec 2020
-      duration: (2020 - Precent)
+      duration: (2020 - present)
       description: Professional Fullstack Developer (Ecommerce web developer)
     - work3:
       company: Tecksky
@@ -106,14 +106,14 @@ author:
       percentage: 70%
 footerLinks:
   - link1:
-    label: Stack
+    label: stack
     url: stack
   - link2:
-    label: Code
+    label: code
     url: code
   - link3:
-    label: CMD
+    label: cmd
     url: cmd
   - link4:
-    label: Books
+    label: books
     url: books
