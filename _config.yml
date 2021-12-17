@@ -104,3 +104,16 @@ author:
     - skill5:
       name: Core PHP
       percentage: 70%
+footerLinks:
+  - link1:
+    label: Stack
+    url: stack
+  - link2:
+    label: Code
+    url: code
+  - link3:
+    label: CMD
+    url: cmd
+  - link4:
+    label: Books
+    url: books
