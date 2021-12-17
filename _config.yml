@@ -27,13 +27,20 @@ author:
   stackoverflow:
 #  stackoverflow: 70292
   workHistory:
+    - work4:
+      company: Individual 
+      location: Remote / Worldwide
+      title: Magento Developer
+      started: Dec 2020
+      duration: (2020 - Precent)
+      description: Professional Fullstack Developer (Ecommerce web developer)
     - work3:
       company: Tecksky
       location: Surat, Gujarat
       title: Magento Developer
       started: Sep 2020
-      duration: (2020 - Present)
-      description: Magento Developer
+      duration: (2020 - 2021)
+      description: Adobe Ecommerce Developer (Magento)
     - work2:
       company: Aureate Labs Pvt. Ltd.
       location: Surat, Gujarat
