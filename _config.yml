@@ -105,6 +105,9 @@ author:
     - skill5:
       name: Core PHP
       percentage: 70%
+    - skill6:
+      name: Jekyll theme
+      percentage: 50%
 footerLinks:
   - link1:
     label: stack
