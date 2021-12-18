@@ -1,6 +1,7 @@
 # Site settings
 title: Bhavesh Prajapati 
 description: Bhavesh Prajapati
+avtar: /assets/img/avatar.jpg
 favicon: /assets/img/favicon.ico
 baseurl: https://bhaveshpp.github.io
 url: https://bhaveshpp.github.io
