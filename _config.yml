@@ -121,3 +121,6 @@ footerLinks:
   - link4:
     label: books
     url: books
+  - link5:
+    label: privacy-policy
+    url: privacy-policy
