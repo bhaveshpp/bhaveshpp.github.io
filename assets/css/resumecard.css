@@ -59,6 +59,8 @@ hr {
     height: auto;
     padding: 20px 0;
     margin-bottom: 20px;
+    overflow: hidden;
+    position: relative;
 }
 
 .header img {
