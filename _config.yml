@@ -91,6 +91,9 @@ author:
     - language3:
       name: French (learner)
       proficiency: Limited
+    - language4:
+      name: Any (With AI and google translater)
+      proficiency: Limited
   programmingSkills:
     - skill1:
       name: Magento 2/1
