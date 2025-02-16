@@ -16,7 +16,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Bhavesh Prajapati
-  title: Professional full stack Developer (E commerce web developer)
+  title: Professional full stack Developer (E-commerce web developer)
   address: Surat, Gujarat, India
   email: bhaveshp.magento@gmail.com
   link: https://bhaveshpp.github.io
@@ -32,36 +32,63 @@ author:
 #  stackoverflow: 70292
   workHistory:
     - work4:
-      company: Individual 
+      company: See Possible Innovative Solutions LLP.
+      location: Vesu, Surat, Gujarat, India.
+      title: Sr. Developer
+      started: 24 Feb 2022
+      duration: (2023 - current)
+      description: Sr. Developer and DevOps Engineer.
+    - work4:
+      company: Individual Freelancing 
       location: Remote / Worldwide
       title: Magento Developer
       started: Dec 2021
-      duration: (2020 - present)
-      description: Professional full stack Developer (E commerce web developer)
+      duration: (2021 - 2022)
+      description: Professional full-stack Developer (E-commerce web developer)
     - work3:
       company: Tecksky
-      location: Surat, Gujarat
+      location: Katargam, Surat, Gujarat, India.
       title: Magento Developer
       started: Sep 2020
       duration: (2020 - 2021)
-      description: Here, I have started work as Sr. Web and Adobe Ecommerce (Magento) Developer. I have worked on magento2, magento1, codeignitor, and also on core PHP projects and learned many things in my profession and personal life also. I am grateful to my team leader and colleagues for growing me up.
+      description: Here, I have started work as a Sr. Web and Adobe Ecommerce (Magento) Developer. I have worked on magento2, magento1, codeignitor, and also on core PHP projects and learned many things in my profession and personal life also. I am grateful to my team leader and colleagues for growing me up.
     - work2:
       company: Aureate Labs Pvt. Ltd.
-      location: Surat, Gujarat
+      location: Ring Road, Surat, Gujarat, India
       title: Magento Developer
       started: june 2020
       duration: (2020 - 2020)
-      description: Here I have started work as an Adobe commerce developer (Magento developer). And Learn many new technology and working standards under experienced developers. and work with the trained team and improve my skills and work performance.
+      description: Here I have started work as an Adobe commerce developer (Magento developer). And learn about new technology and working standards under experienced developers. and work with the trained team and improve my skills and work performance.
     - work1:
       company: Cirkle Studio
-      location: Surat, Gujarat
+      location: Katargam, Surat, Gujarat, India
       title: Jr. Magento Developer
       started: June 2018
       duration: (2018 - 2020)
-      description: Start training and work as Jr. Magento Developer. After completing my bachelor's degree I have started training and my master's as literal. Here I have started my journey as a web developer, After completing my training I have started working on Magento1 and Magento2 as a junior Magento developer under an experienced development team.
+      description: Start training and work as Jr. Magento Developer. After completing my bachelor's degree I started training and my master's as literal. Here I have started my journey as a web developer, After completing my training I have started working on Magento1 and Magento2 as a junior Magento developer under an experienced development team.
 
   educationHistory:
     - education1:
+      organization: IIT Roorkee
+      location: Roorkee, Uttarakhand
+      degree: Post Graduate on DevOps and Cloud Computing.
+      major: DevOps, DevSecOps, Networking.
+      started: 2023
+      duration: (2023 - current)
+      description: With Intellipaat
+      collegeLogo: /assets/img/roorkee.png
+      universityLogo: 
+    - education2:
+      organization: Intellipaat Online Training
+      location: Bengaluru, Karnataka
+      degree: Linux System Adminiatrtion
+      major: Linux, Unix, System administration
+      started: 2023
+      duration: (2022 - 2023)
+      description: 
+      collegeLogo: /assets/img/intellipaat.png
+      universityLogo: 
+    - education3:
       organization: S.G.V.U.
       location: Jaypur, Rajasthan
       degree: Master of computer application
@@ -71,14 +98,14 @@ author:
       description: Suresh gyanvihar university
       collegeLogo: /assets/img/sgvu.png
       universityLogo: 
-    - education2:
-      organization: Sutex bank collage of computer application and science
+    - education4:
+      organization: Sutex Bank Collage of computer application and Science, V.N.S.G.U.
       location: Shenyang, China
-      degree: Bechlor of computer application
+      degree: Bachelor of computer application
       major: Software Engineering
       started: 2015
       duration: (2015 - 2018)
-      description: Veer narmad south gujarat university
+      description: Veer Narmad South Gujarat university
       collegeLogo: /assets/img/sutex.png
       universityLogo: /assets/img/vnsgu.jpg
   languages:
@@ -95,22 +122,29 @@ author:
       name: Any (With AI and google translater)
       proficiency: Limited
   programmingSkills:
+    
     - skill1:
+      name: DevOps
+      percentage: 95%
+    - skill2:
+      name: Networking and Linux System Administration.
+      percentage: 92%
+    - skill3:
       name: Magento 2/1
       percentage: 90%
-    - skill2:
+    - skill4:
       name: Opencart 3/2
       percentage: 80%
-    - skill3:
+    - skill5:
       name: JavaScript
       percentage: 70%
-    - skill4:
+    - skill6:
       name: Codeigniter
       percentage: 80%
-    - skill5:
+    - skill7:
       name: Core PHP
       percentage: 70%
-    - skill6:
+    - skill8:
       name: Jekyll theme
       percentage: 50%
 footerLinks:
