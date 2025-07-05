@@ -1,7 +1,7 @@
 # Site settings
 title: Bhavesh Prajapati 
 description: Bhavesh Prajapati
-avtar: /assets/img/avatar.jpg
+avtar: /assets/img/bhaveshpp.jpg
 favicon: /assets/img/favicon.ico
 baseurl: https://bhaveshpp.github.io
 url: https://bhaveshpp.github.io
@@ -16,7 +16,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Bhavesh Prajapati
-  title: Professional full stack Developer (E-commerce web developer)
+  title: Professional full-stack Developer (E-commerce web developer)
   address: Surat, Gujarat, India
   email: bhaveshp.magento@gmail.com
   link: https://bhaveshpp.github.io
@@ -51,27 +51,27 @@ author:
       title: Magento Developer
       started: Sep 2020
       duration: (2020 - 2021)
-      description: Here, I have started work as a Sr. Web and Adobe Ecommerce (Magento) Developer. I have worked on magento2, magento1, codeignitor, and also on core PHP projects and learned many things in my profession and personal life also. I am grateful to my team leader and colleagues for growing me up.
+      description: Here, I have started work as a Senior Web and Adobe Ecommerce (Magento) Developer. I have worked on Magento 2, Magento 1, CodeIgniter, and also on core PHP projects, and I have learned many things in both my professional and personal life. I am grateful to my team leader and colleagues for growing me up.
     - work2:
       company: Aureate Labs Pvt. Ltd.
       location: Ring Road, Surat, Gujarat, India
       title: Magento Developer
-      started: june 2020
+      started: June 2020
       duration: (2020 - 2020)
-      description: Here I have started work as an Adobe commerce developer (Magento developer). And learn about new technology and working standards under experienced developers. and work with the trained team and improve my skills and work performance.
+      description: Here I have started work as an Adobe Commerce developer (Magento developer). And learn about new technology and working standards from experienced developers. and work with the trained team and improve my skills and work performance.
     - work1:
       company: Cirkle Studio
       location: Katargam, Surat, Gujarat, India
       title: Jr. Magento Developer
       started: June 2018
       duration: (2018 - 2020)
-      description: Start training and work as Jr. Magento Developer. After completing my bachelor's degree I started training and my master's as literal. Here I have started my journey as a web developer, After completing my training I have started working on Magento1 and Magento2 as a junior Magento developer under an experienced development team.
+      description: Here, I got some training and started work as a Jr. Magento Developer. The company allowed me to complete my master's degree as an External. Here I have started my journey as a web developer. After completing my training, I began working on Magento 1 and Magento 2 as a junior Magento developer under an experienced development team. It was a golden year when I built my base.
 
   educationHistory:
     - education1:
       organization: IIT Roorkee
       location: Roorkee, Uttarakhand
-      degree: Post Graduate on DevOps and Cloud Computing.
+      degree: Post Graduate in DevOps and Cloud Computing. , DevOps, DevSecOps, Networking.
       major: DevOps, DevSecOps, Networking.
       started: 2023
       duration: (2023 - current)
@@ -81,7 +81,7 @@ author:
     - education2:
       organization: Intellipaat Online Training
       location: Bengaluru, Karnataka
-      degree: Linux System Adminiatrtion
+      degree: Linux System Administration
       major: Linux, Unix, System administration
       started: 2023
       duration: (2022 - 2023)
@@ -90,8 +90,8 @@ author:
       universityLogo: 
     - education3:
       organization: S.G.V.U.
-      location: Jaypur, Rajasthan
-      degree: Master of computer application
+      location: Jaipur, Rajasthan
+      degree: Master of Computer Applications
       major: Software Engineering
       started: 2018
       duration: (2018 - 2021)
@@ -99,9 +99,9 @@ author:
       collegeLogo: /assets/img/sgvu.png
       universityLogo: 
     - education4:
-      organization: Sutex Bank Collage of computer application and Science, V.N.S.G.U.
-      location: Shenyang, China
-      degree: Bachelor of computer application
+      organization: Sutex Bank College of Computer Application and Science, V.N.S.G.U./ Bachelor
+      location: Surat, Gujarat
+      degree: Bachelor of Computer Applications
       major: Software Engineering
       started: 2015
       duration: (2015 - 2018)
@@ -119,10 +119,9 @@ author:
       name: French (learner)
       proficiency: Limited
     - language4:
-      name: Any (With AI and google translater)
+      name: Any (With AI and Google Translate)
       proficiency: Limited
   programmingSkills:
-    
     - skill1:
       name: DevOps
       percentage: 95%
@@ -158,8 +157,8 @@ footerLinks:
     label: cmd
     url: cmd
   - link4:
-    label: books
-    url: books
+    label: gita
+    url: gita
   - link5:
     label: privacy-policy
     url: privacy-policy
